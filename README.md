@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sejin</h1>
+<h3 align="center">Physicist from Hawaii</h3>
 
-<!--
-**sejin8642/sejin8642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Ask me about
+- Scientific Programming (Python, NumPy, SciPy, C)
+- Machine Learning and Deep Learning (TensorFlow, Keras)
+- High Performance Computing (HPC)
+- NMR Physics
+- Simulation Physics
+- Side projects (ftnmr)
 
-Here are some ideas to get you started:
+## 📅 Hobbies
+- Catan 
+- Hiking 
+- Strategy videogames
+- Watching Korean shows (fluent in Korean)
+- etc...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Learning
+- Deep Learning tools (PyTorch, JAX) 
+- Mathematical Physics (Hilbert space, theory of distribution, etc) 
+- Computer Hardware
+- Cryptography
+- Japanese
