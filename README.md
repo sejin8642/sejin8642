@@ -20,5 +20,6 @@
 - Deep Learning tools (PyTorch, JAX) 
 - Mathematical Physics (Hilbert space, theory of distribution, etc) 
 - Computer Hardware
+- Theory of Computation
 - Cryptography
 - Japanese
